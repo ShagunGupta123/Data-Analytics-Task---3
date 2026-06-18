@@ -37,3 +37,6 @@ Sales Dataset
 
 #Outcome
 Successfully performed SQL Data Analysis using SQL queries and generated insights from the dataset.
+
+#Author 
+SHAGUN GUPTA
